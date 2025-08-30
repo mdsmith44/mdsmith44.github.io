@@ -1,12 +1,15 @@
 # Matt Smith
 
-**Technical Skills:** Python
-**Interested In:** Data Analysis, AI/ML, Data Visualization
+### US Army Operations Research Officer
+
+**Interested In:** Data Analysis, AI/ML, Data Visualization, Computer Vision, Decision Support Tools
+
+**Skills:** Python Data Analysis Ecosystem, Web Dashboards, HPC, Leading Data Science Teams 
 
 ## Contact Me
 - **Email:** mdsmith44@gmail.com
 - **Phone:** 617-899-7936
-- **LinkedIn:** https://www.linkedin.com/in/matt-smith-ab569067/
+- **LinkedIn:** [https://www.linkedin.com/in/matt-smith-ab569067/](https://www.linkedin.com/in/matt-smith-ab569067/)
 
   
 ## Education
