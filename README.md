@@ -31,8 +31,4 @@ Naval Postgraduate School
 
 Designed and developed a dynamic streamlit dashboard to enable NPS community to build custom QR Codes.
 
-Here we show two common methods for inserting images.
-
-Method 1: Use HTML img tag.
-
 <img src='images/streamlit_QR_screenshot.jpg' alt='dashboard' height=200/>
