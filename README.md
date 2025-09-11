@@ -29,18 +29,6 @@
   </tr>
 </table>
 
-| Degree | School |
-| --- | --- |
-| PhD, Management Science and Engineering | Stanford University (_2017_) |
-| MS, Electrical Engineering | University of Southern California (_2010_) |
-| BS, Physics | MIT (_2006_) |
-
-
-
-- PhD, Management Science and Engineering | Stanford University (_2017_)
-- MS, Electrical Engineering | University of Southern California (_2010_)
-- BS, Physics | MIT (_2006_)
-
 ## Work Experience
 **Assistant Professor**           
 Naval Postgraduate School     
