@@ -13,11 +13,28 @@
 
 
 ## Education
+
+<table>
+  <tr>
+    <td>PhD, Management Science and Engineering</td>
+    <td>Stanford University (_2017_)</td>
+  </tr>
+  <tr>
+    <td>MS, Electrical Engineering</td>
+    <td>University of Southern California (_2010_)</td>
+  </tr>
+  <tr>
+    <td>BS, Physics</td>
+    <td>MIT (_2006_)</td>
+  </tr>
+</table>
+
 | Degree | School |
 | --- | --- |
 | PhD, Management Science and Engineering | Stanford University (_2017_) |
 | MS, Electrical Engineering | University of Southern California (_2010_) |
 | BS, Physics | MIT (_2006_) |
+
 
 
 - PhD, Management Science and Engineering | Stanford University (_2017_)
