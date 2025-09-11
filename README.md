@@ -12,12 +12,14 @@
 - **LinkedIn:** [https://www.linkedin.com/in/matt-smith-ab569067/](https://www.linkedin.com/in/matt-smith-ab569067/)
 
 
-| Command | Description |
-| --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
-
 ## Education
+| Degree | School |
+| --- | --- |
+| PhD, Management Science and Engineering | Stanford University (_2017_) |
+| MS, Electrical Engineering | University of Southern California (_2010_) |
+| BS, Physics | MIT (_2006_) |
+
+
 - PhD, Management Science and Engineering | Stanford University (_2017_)
 - MS, Electrical Engineering | University of Southern California (_2010_)
 - BS, Physics | MIT (_2006_)
