@@ -17,15 +17,15 @@
 <table>
   <tr>
     <td>PhD, Management Science and Engineering</td>
-    <td>Stanford University (2017)</td>
+    <td>Stanford University (<i>2017</i>)</td>
   </tr>
   <tr>
     <td>MS, Electrical Engineering</td>
-    <td>University of Southern California (2010)</td>
+    <td>University of Southern California (<i>2010</i>)</td>
   </tr>
   <tr>
     <td>BS, Physics</td>
-    <td>MIT (2006)</td>
+    <td>MIT (<i>2006</i>)</td>
   </tr>
 </table>
 
