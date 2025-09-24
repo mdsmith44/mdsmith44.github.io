@@ -40,7 +40,7 @@ Naval Postgraduate School
 ### Tactical Network Analysis
 Demonstration of tools used to perform data analysis and data visualization of high-throughput tactical networks used in experimentation.
 
-[Git repo](https://github.com/mdsmith44/Tactical_Network_Analysis/tree/main)
+<a href='https://github.com/mdsmith44/Tactical_Network_Analysis/tree/main' target='_blank'>Git repo</a>
 
 View dashboard:
 
@@ -51,7 +51,7 @@ View dashboard:
 ### COVID Trends by State
 Overview of COVID trends by state, built with bokeh.
 
-[Git Repo](https://github.com/mdsmith44/py_qrcode_gen)
+<a href='https://github.com/mdsmith44/py_qrcode_gen' target='_blank'>Git repo</a>
 
 View dashboard:
 
@@ -62,12 +62,12 @@ View dashboard:
 ### Python Data Analysis Bootcamp
 A tutorial built designed to cover fundamentals of data anlaysis in Python, assuming no prior background.  Covers python fundamentals, data processing (`numpy` and `pandas`), data visualization (`matplotlib`, `seaborn`, `bokeh`), and machine learning (`sklearn`).  
 
-[Git repo](https://github.com/mdsmith44/NPS-Python-Primer)
+<a href='https://github.com/mdsmith44/NPS-Python-Primer' target='_blank'>Git repo</a>
 
 <img src='images/nps_python_logo.png' height=200/>
 
 ### Streamlit App for Generating QR Codes
-[Git Repo](https://github.com/mdsmith44/py_qrcode_gen)
+<a href='https://github.com/mdsmith44/py_qrcode_gen' target='_blank'>Git repo</a>
 
 Sample streamlit dashboard to enable NPS community to build custom QR Codes.
 
