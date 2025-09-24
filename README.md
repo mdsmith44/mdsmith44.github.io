@@ -64,7 +64,7 @@ A tutorial built designed to cover fundamentals of data anlaysis in Python, assu
 
 [Git repo](https://github.com/mdsmith44/NPS-Python-Primer)
 
-<img src='images/python_data_analysis.png' height=200/>
+<img src='images/nps_python_logo.png' height=200/>
 
 ### Streamlit App for Generating QR Codes
 [Git Repo](https://github.com/mdsmith44/py_qrcode_gen)
