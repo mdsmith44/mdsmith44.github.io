@@ -44,7 +44,7 @@ Overview of COVID trends by state, built with bokeh.
 
 View dashboard:
 
-<a href='https://mdsmith44.github.io/COVID19_Analysis/'>
+<a href='https://mdsmith44.github.io/COVID19_Analysis/' target="_blank">
 <img src='images/US_Map_COVID.png' alt='dashboard' height=200/>
 </a>
 
@@ -55,6 +55,6 @@ Sample streamlit dashboard to enable NPS community to build custom QR Codes.
 
 Live app:
 
-<a href='https://pyqrcodegen-oa3801.streamlit.app/'>
+<a href='https://pyqrcodegen-oa3801.streamlit.app/' target="_blank">
 <img src='images/streamlit_QR_screenshot.jpg' alt='dashboard' height=200/>
 </a>
