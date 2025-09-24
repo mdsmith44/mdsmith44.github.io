@@ -51,7 +51,7 @@ View dashboard:
 ### COVID Trends by State
 Overview of COVID trends by state, built with bokeh.
 
-[Git Repo](https://github.com/mdsmith44/py_qrcode_gen))
+[Git Repo](https://github.com/mdsmith44/py_qrcode_gen)
 
 View dashboard:
 
