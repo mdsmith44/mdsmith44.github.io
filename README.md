@@ -37,6 +37,17 @@ Naval Postgraduate School
 - Also serves as technical director for the NPS Data Science and Analytics Group (DSAG), leading education, advisory, and research efforts across campus.
 
 ## Projects
+### Tactical Network Analysis
+Demonstration of tools used to perform data analysis and data visualization of high-throughput tactical networks used in experimentation.
+
+[Git repo](https://github.com/mdsmith44/Tactical_Network_Analysis/tree/main)
+
+View dashboard:
+
+<a href='https://mdsmith44.github.io/Tactical_Network_Analysis/' target="_blank">
+<img src='images/network_snapshot.png' height=200>
+</a>
+
 ### COVID Trends by State
 Overview of COVID trends by state, built with bokeh.
 
