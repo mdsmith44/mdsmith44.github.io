@@ -59,6 +59,13 @@ View dashboard:
 <img src='images/US_Map_COVID.png' alt='dashboard' height=200/>
 </a>
 
+### Python Data Analysis Bootcamp
+A tutorial built designed to cover fundamentals of data anlaysis in Python, assuming no prior background.  Covers python fundamentals, data processing (`numpy` and `pandas`), data visualization (`matplotlib`, `seaborn`, `bokeh`), and machine learning (`sklearn`).  
+
+[Git repo](https://github.com/mdsmith44/NPS-Python-Primer)
+
+<img src='imags/python_numpy_pandas.jpg' height=200/>
+
 ### Streamlit App for Generating QR Codes
 [Git Repo](https://github.com/mdsmith44/py_qrcode_gen)
 
