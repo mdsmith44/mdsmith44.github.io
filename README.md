@@ -29,7 +29,7 @@
   </tr>
 </table>
 
-## Work Experience
+## Current Job
 **Assistant Professor**           
 Naval Postgraduate School     
 (_June 2023 - present_)
@@ -37,10 +37,24 @@ Naval Postgraduate School
 - Also serves as technical director for the NPS Data Science and Analytics Group (DSAG), leading education, advisory, and research efforts across campus.
 
 ## Projects
+### COVID Trends by State
+Overview of COVID trends by state, built with bokeh.
+
+[Git Repo](https://github.com/mdsmith44/py_qrcode_gen))
+
+View dashboard:
+
+<a href='https://mdsmith44.github.io/COVID19_Analysis/'>
+<img src='images/US_Map_COVID.png' alt='dashboard' height=200/>
+</a>
 
 ### Streamlit App for Generating QR Codes
 [Git Repo](https://github.com/mdsmith44/py_qrcode_gen)
 
-Designed and developed a dynamic streamlit dashboard to enable NPS community to build custom QR Codes.
+Sample streamlit dashboard to enable NPS community to build custom QR Codes.
 
+Live app:
+
+<a href='https://pyqrcodegen-oa3801.streamlit.app/'>
 <img src='images/streamlit_QR_screenshot.jpg' alt='dashboard' height=200/>
+</a>
