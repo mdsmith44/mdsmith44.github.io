@@ -45,7 +45,7 @@ Demonstration of tools used to perform data analysis and data visualization of h
 View dashboard:
 
 <a href='https://mdsmith44.github.io/Tactical_Network_Analysis/' target="_blank">
-<img src='images/network_snapshot.png' height=200>
+<img src='images/PC_Network.gif' height=200>
 </a>
 
 ### COVID Trends by State
@@ -56,7 +56,7 @@ Overview of COVID trends by state, built with bokeh.
 View dashboard:
 
 <a href='https://mdsmith44.github.io/COVID19_Analysis/' target="_blank">
-<img src='images/US_Map_COVID.png' alt='dashboard' height=200/>
+<img src='images/covid_map.gif' alt='dashboard' height=200/>
 </a>
 
 ### Python Data Analysis Bootcamp
