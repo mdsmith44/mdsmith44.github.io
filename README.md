@@ -12,23 +12,6 @@
 - **LinkedIn:** [https://www.linkedin.com/in/matt-smith-ab569067/](https://www.linkedin.com/in/matt-smith-ab569067/)
 
 
-## Education
-
-<table>
-  <tr>
-    <td>PhD, Management Science and Engineering</td>
-    <td>Stanford University (<i>2017</i>)</td>
-  </tr>
-  <tr>
-    <td>MS, Electrical Engineering</td>
-    <td>University of Southern California (<i>2010</i>)</td>
-  </tr>
-  <tr>
-    <td>BS, Physics</td>
-    <td>MIT (<i>2006</i>)</td>
-  </tr>
-</table>
-
 ## Current Job
 **Assistant Professor**           
 Naval Postgraduate School     
