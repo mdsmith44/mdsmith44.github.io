@@ -20,6 +20,14 @@ Naval Postgraduate School
 - Also serves as technical director for the NPS Data Science and Analytics Group (DSAG), leading education, advisory, and research efforts across campus.
 
 ## Projects
+### Skin Lesion Image Classification and Description
+Computer vision workflow using HAM10000 skin lesion image dataset to test and demonstrate capabilities of NVIDIA GB300 infrastructure.  Modeling components include classification of lesions using fine tuning of pre-trained ResNet model, parameter efficient fine tuning of Smol Vision Language Models using NeMo to produce natural language description of images, Nemotron family model to produce consolidated report, and a deployment pipeline using ONNX and TensorRT to serve models over NVIDIA Triton.
+
+<a href='https://github.com/mdsmith44/skin-lesion-ai' target='_blank'>Git repo</a>
+
+<img src='images/gradcam_case_comparison.png' height=200>
+
+
 ### Tactical Network Analysis
 Demonstration of tools used to perform data analysis and data visualization of high-throughput tactical networks used in experimentation.
 
