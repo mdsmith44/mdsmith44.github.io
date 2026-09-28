@@ -31,7 +31,7 @@ End-to-end computer vision and multimodal AI project using the HAM10000 skin-les
 ### Tactical Network Analysis
 Demonstration of tools used to perform data analysis and data visualization of high-throughput tactical networks used in experimentation.
 
-<a href='https://github.com/mdsmith44/Tactical_Network_Analysis/tree/main' target='_blank'>Git repo</a>
+<a href='https://github.com/mdsmith44/Tactical_Network_Analysis/tree/main' target='_blank'>Git repo</a><br>
 <a href='https://github.com/mdsmith44/Tactical_Network_Analysis/blob/main/paper/Smith%20Tactical%20Experiment%20In%20Stride%20Analysis.pdf' target='_blank'>Research Paper</a>
 
 
