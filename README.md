@@ -20,8 +20,8 @@ Naval Postgraduate School
 - Also serves as technical director for the NPS Data Science and Analytics Group (DSAG), leading education, advisory, and research efforts across campus.
 
 ## Projects
-### Skin Lesion Image Classification and Description
-Computer vision workflow using HAM10000 skin lesion image dataset to test and demonstrate capabilities of NVIDIA GB300 infrastructure.  Modeling components include classification of lesions using fine tuning of pre-trained ResNet model, parameter efficient fine tuning of Smol Vision Language Models using NeMo to produce natural language description of images, Nemotron family model to produce consolidated report, and a deployment pipeline using ONNX and TensorRT to serve models over NVIDIA Triton.
+### Skin Lesion Classification and Multimodal AI Deployment
+End-to-end computer vision and multimodal AI project using the HAM10000 skin-lesion dataset on NVIDIA GB300 infrastructure. The project combines a fine-tuned ResNet18 classifier, NeMo-based parameter-efficient fine-tuning of SmolVLM, SmolVLM2 visual descriptions, and grounded report generation with NVIDIA Nemotron. The deployment pipeline uses ONNX and TensorRT for optimized GPU inference, with model evaluation, explainability, output validation, and multi-model serving incorporated throughout the workflow.
 
 <a href='https://github.com/mdsmith44/skin-lesion-ai' target='_blank'>Git repo</a>
 
