@@ -20,6 +20,13 @@ Naval Postgraduate School
 - Also serves as technical director for the NPS Data Science and Analytics Group (DSAG), leading education, advisory, and research efforts across campus.
 
 ## Projects
+### Pushup Verifier and Counter
+Python application that uses MediaPipe and OpenCV to measure joint angles and evaluate pushup sequences from video. The project combines pose estimation, annotated video, and rule-based temporal reasoning, with explicit handling of uncertain observations. Initial experiments matched manual counts on full and shallow pushup clips while revealing missed transitions and sensitivity to occlusion. Through reproducible experiments and failure analysis, I’m exploring how to translate physical procedures into measurable visual rules and build more reliable computer-vision systems.
+
+<a href='https://github.com/mdsmith44/pushup-verifier/tree/main' target='_blank'>Git repo</a>
+
+<img src='images/pushup_demo_clip.gif' height=200>
+
 ### Skin Lesion Classification and Multimodal AI Deployment
 End-to-end computer vision and multimodal AI project using the HAM10000 skin-lesion dataset on NVIDIA GB300 infrastructure. The project combines a fine-tuned ResNet18 classifier, NeMo-based parameter-efficient fine-tuning of SmolVLM, SmolVLM2 visual descriptions, and grounded report generation with NVIDIA Nemotron. The deployment pipeline uses ONNX and TensorRT for optimized GPU inference, with model evaluation, explainability, output validation, and multi-model serving incorporated throughout the workflow.
 
