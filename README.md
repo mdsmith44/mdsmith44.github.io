@@ -50,7 +50,7 @@ View interactive network visualization:
 <img src='images/network_snapshot.png' height=200>
 </a>
 
-This work was part of a broader effort for providing real time analysis for Army technology experimentation.  See [sample dashboard](https://intelshare.intelink.gov/sites/projectconvergence/SitePages/Instride%20Home%20Page.aspx) (CAC Card required for access).
+This work was part of a broader effort for providing real time analysis for Army technology experimentation.  See [sample dashboard](https://intelshare.intelink.gov/sites/projectconvergence/SitePages/Instride%20Home%20Page.aspx) hosted on DoD Intelshare (CAC Card required for access).
 
 ### COVID Trends by State
 Overview of COVID trends by state, built with bokeh.
