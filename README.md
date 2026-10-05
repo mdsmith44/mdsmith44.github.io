@@ -26,7 +26,7 @@ Python application that uses MediaPipe and OpenCV to measure joint angles and ev
 <a href='https://github.com/mdsmith44/pushup-verifier/tree/main' target='_blank'>Git repo</a>
 
 <img src='images/pushup_with_counter.gif' height=200>
-<img src='images/pushup_obstructed_demo.gif' height=200 >
+<img src='images/pushup_obstructed_demo.gif' height=200>
 
 ### Skin Lesion Classification and Multimodal AI Deployment
 End-to-end computer vision and multimodal AI project using the HAM10000 skin-lesion dataset on NVIDIA GB300 infrastructure. The project combines a fine-tuned ResNet18 classifier, NeMo-based parameter-efficient fine-tuning of SmolVLM, SmolVLM2 visual descriptions, and grounded report generation with NVIDIA Nemotron. The deployment pipeline uses ONNX and TensorRT for optimized GPU inference, with model evaluation, explainability, output validation, and multi-model serving incorporated throughout the workflow.
