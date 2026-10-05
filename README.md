@@ -24,6 +24,7 @@ Naval Postgraduate School
 Python application that uses MediaPipe and OpenCV to measure joint angles and evaluate pushup sequences from video. The project combines pose estimation, annotated video, and rule-based temporal reasoning, with explicit handling of uncertain or partially blocked observations.
 
 <a href='https://github.com/mdsmith44/pushup-verifier/tree/main' target='_blank'>Git repo</a>
+
 <img src='images/pushup_with_counter.gif' height=200>
 <img src='images/pushup_obstructed_demo.gif' height=200 >
 
