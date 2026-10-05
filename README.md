@@ -4,7 +4,7 @@
 
 **Interested In:** Data Analysis, AI/ML, Data Visualization, Computer Vision, Decision Support Tools
 
-**Skills:** Python Data Analysis Ecosystem, Web Dashboards, HPC, Leading Data Science Teams 
+**Skills:** Python Data Analysis Ecosystem, Web Dashboards, HPC, Computer Vision, Leading Data Science Teams 
 
 ## Contact Me
 - **Email:** mdsmith44@gmail.com
