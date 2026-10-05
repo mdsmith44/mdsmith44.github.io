@@ -38,17 +38,19 @@ End-to-end computer vision and multimodal AI project using the HAM10000 skin-les
 
 
 ### Tactical Network Analysis
-Demonstration of tools used to perform data analysis and data visualization of high-throughput tactical networks used in experimentation.
+Demonstration of tools used to perform data analysis and data visualization of high-throughput tactical networks used during military experimentation events.
 
 <a href='https://github.com/mdsmith44/Tactical_Network_Analysis/tree/main' target='_blank'>Git repo</a><br>
 <a href='https://github.com/mdsmith44/Tactical_Network_Analysis/blob/main/paper/Smith%20Tactical%20Experiment%20In%20Stride%20Analysis.pdf' target='_blank'>Research Paper: Near Real Time Analytics for Project Convergence 21</a>
 
 
-View dashboard:
+View interactive network visualization:
 
 <a href='https://mdsmith44.github.io/Tactical_Network_Analysis/' target="_blank">
 <img src='images/network_snapshot.png' height=200>
 </a>
+
+This work was part of a broader effort for providing real time analysis for Army technology experimentation.  See [sample dashboard](https://intelshare.intelink.gov/sites/projectconvergence/SitePages/Instride%20Home%20Page.aspx) (CAC Card required for access).
 
 ### COVID Trends by State
 Overview of COVID trends by state, built with bokeh.
