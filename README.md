@@ -9,7 +9,7 @@
 ## Contact Me
 - **Email:** mdsmith44@gmail.com
 - **Phone:** 617-899-7936
-- **LinkedIn:** [https://www.linkedin.com/in/matt-smith-ab569067/](https://www.linkedin.com/in/matt-smith-ab569067/)
+- **LinkedIn:** [https://www.linkedin.com/in/mdsmith44/](https://www.linkedin.com/in/mdsmith44/)
 
 
 ## Current Job
